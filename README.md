@@ -1,6 +1,6 @@
 ### Hi there :D
 
-[My name is Tales](https://tales.dev/about/). I'll give a really short version of who I am and what I do, but if you want the longer one, [hop in here](https://tales.dev/about/).
+[My name is Tales](https://tales.dev/about/). I'll give a really short version of who I am and what I do, but if you want a longer one, [hop in here](https://tales.dev/about/).
 
 - 🏢 I work as the Engineering Manager for the Recruiter Portal team at [HeyJobs](https://github.com/heyjobs/)
 - 🌱 If you are interested in whatever I'm learning, you can check it out [here](https://tales.dev/blips/)
